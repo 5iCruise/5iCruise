@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![notion avatar](https://notion-avatar.vercel.app/api/img/eyJmYWNlIjo2LCJub3NlIjozLCJtb3V0aCI6MTAsImV5ZXMiOjYsImV5ZWJyb3dzIjoxMCwiZ2xhc3NlcyI6MiwiaGFpciI6MTQsImFjY2Vzc29yaWVzIjowLCJkZXRhaWxzIjowLCJiZWFyZCI6MH0=)
+
 <!--
 **5iCruise/5iCruise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

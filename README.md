@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## iCruiseDATA Flags in 2022  
+# iCruiseDATA Flags in 2022  
 
 ## 工作  
 ### 业务  
@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 [] 商业投资/财务能力   
 
 ## 家庭  
-[] 装修 ( 预算300K )  
+- [] 装修 ( 预算300K )  
 
 ## 健身  
-[ ] 足球 ( 每周一回，全年不少于 45 场 )  
-[ ] 减重 ( BMI目标：22  控制到 70 KG )
+[] 足球 ( 每周一回，全年不少于 45 场 )  
+[] 减重 ( BMI目标：22  控制到 70 KG )
 
 ## 阅读  
 [] 《三体》（全三册）， 刘慈溪  ( 50% )  
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 [] 《万历十五年》， 黄仁宇  美.     
 [] 《意识的起源》， 埃利希 · 诺伊曼  德.   
 [] 《信息传》， 吴军  美.   
-[] CFA协会金融前沿译丛：证券分析、并购、REITs、期权估值、投资实践 
+[] CFA协会金融前沿译丛：证券分析、并购、REITs、期权估值、投资实践    
 [] 《底层逻辑》， 刘润 
 
  -EOF- 

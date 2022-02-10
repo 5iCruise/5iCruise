@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm ROGER. 
 
 ![notion avatar](https://notion-avatar.vercel.app/api/img/eyJmYWNlIjo2LCJub3NlIjozLCJtb3V0aCI6MTAsImV5ZXMiOjYsImV5ZWJyb3dzIjoxMCwiZ2xhc3NlcyI6MiwiaGFpciI6MTQsImFjY2Vzc29yaWVzIjowLCJkZXRhaWxzIjowLCJiZWFyZCI6MH0=)
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## 个人  
 - [ ] 业务 & 技术力 输出分享博文/音频 10 回   
-- [ ] 商业项目案 2 份   
+- [ ] 商业项目提案 2 份   
 - [ ] 语言巩固提升 ( En )    
 - [ ] 商业投资/财务能力   
 

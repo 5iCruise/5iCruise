@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 [] 装修 ( 预算300K )  
 
 ## 健身  
-[] 足球 ( 每周一回，全年不少于 45 场 )  
-[] 减重 ( BMI目标：22  控制到 70 KG )
+[ ] 足球 ( 每周一回，全年不少于 45 场 )  
+[ ] 减重 ( BMI目标：22  控制到 70 KG )
 
 ## 阅读  
 [] 《三体》（全三册）， 刘慈溪  ( 50% )  
@@ -57,4 +57,4 @@ Here are some ideas to get you started:
 [] CFA协会金融前沿译丛：证券分析、并购、REITs、期权估值、投资实践 
 [] 《底层逻辑》， 刘润 
 
- - EOF - 
+ -EOF- 

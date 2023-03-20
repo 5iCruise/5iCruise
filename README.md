@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - [ ] TypeScript 技术栈初级研习   
 - [ ] Front-End 技术栈及应用研习 ( Node.js → PWA → Electron )    
 - [ ] 数据能力 ( 采集/检索/分析/展示 ) 数据库 （+ SQL ）       
-- [ ] 注册信息安全专业人员CISP （ + w社挂考 ）         
+- [ ] 注册信息安全专业人员CISP （ + w社挂考 ）[**培训资料包**](https://terabox.com/s/1Y6i1QysJya1l2c3_8ZQtmA)  提取码 **unts**        
 - [ ] 项目管理  （ **PMP** ）    
 
 ## 个人  
@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 ## 家庭  
 - [ ] **旅游** ( 2023年暑期一回计划： *厦门* by Train )  
 - [ ] 家庭媒体/数据服务搭建 （ 预算10K ）   
-    - [ ] 家庭服务器 （ 主机、系统、网络 ） 
+    - [ ] 家庭服务器/NAS （ 主机、系统、网络 ） 
     - [ ] 桌面数码录播  （ 硬件与应用环境 ）    
-- [ ] CHRIS 8B → 9A （ 择校、目标 ）  
+- [ ] CHRIS 8B → 9A （ 择校、目标 ） | 0320 BIRTHDAY     
 
 ## 健身  
 - [ ] 足球 ( 每周一回，全年不少于 45 场 )  

@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm ROGER. 
 
-![new_avatar]((https://cdn.statically.io/gh/5iCruise/5icruise.github.io/master/img/New%20Avatar%20R.png)
+![new_avatar](https://cdn.statically.io/gh/5iCruise/5icruise.github.io/master/img/New%20Avatar%20R.png)
 
 <!--
 **5iCruise/5iCruise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

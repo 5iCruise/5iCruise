@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ## 家庭  😄  
 - [ ] **旅游** ( 2024年暑期一回计划： *海外* by Air )（ 预算30K+ ）
 - [ ] 家庭媒体/数据服务搭建 （ 预算10K ）   
-    - [ ] 家庭服务器/NAS （ 主机、系统、网络 ） [v2ex网友提供参考](https://v2ex.com/t/992023)
+    - [ ] 家庭服务器/NAS （ 主机、系统、网络 ） v2ex网友提供[参考①](https://v2ex.com/t/992023)  [参考②](https://v2ex.com/t/1006585)    
         - [ ] 硬件：HP Gen8 Microserver  → HP Gen10 Plus 二手
             - [ ] CPU - E3 1265L V2 / 内存 - 16G / 显卡 - NVIDIA Quadro P400 /  硬盘 - 两块 18T 存储用，一块固态 4T 下载用；
         - [ ] 系统：Ubuntu Server 22.04 LTS

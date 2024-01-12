@@ -83,6 +83,7 @@ Here are some ideas to get you started:
 
 
 ## 阅读  🤔   
+- [ ] 《中年之路:人格的第二次成型》， 詹姆斯 · 霍利斯  US.  [豆瓣8.1](https://book.douban.com/subject/36139391/) | 『[**在读**](https://read.mastergo.life/book/21)』
 - [ ] 《信息传》， 吴军  US.      
 - [ ] 《人月神话》，弗雷德里克 · 布鲁克斯  US. 『次回』   
 - [ ] 《中国国家治理的制度逻辑：一个组织学研究》， 周雪光  CN.     

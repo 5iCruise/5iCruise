@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 - [ ] 业务战略 & 重点里程碑 作成
     - [ ]  中期计划 | 零次案    
     - [ ]  中期计划 | 三年      
-    - [ ]  远期计划 | 五～十年   
+    - [ ]  远期计划 | 五～十年
+- [ ] w社 [**Berth Openday SCHD**](https://calendar.google.com/calendar/u/0/embed?src=h9ldool7lm3fomrv98eekgcv34@group.calendar.google.com&ctz=Asia/Shanghai) 
 
 ### 技术栈 🔭     
 - [ ] Front-End 技术栈及应用研习 ( RM：Node.js → PWA → Electron )    

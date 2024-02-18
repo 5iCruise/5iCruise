@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - [ ] 商机洞察力、商业化布局、经营企划     
 - [ ] 业务战略 & 重点里程碑 作成
     - [ ]  中期计划 | 零次案    
-    - [ ]  中期计划 | 三年      
+    - [ ]  中期计划 | + 三年行动案      
     - [ ]  远期计划 | 五～十年
 - [ ] w社 [**Berth Openday SCHD**](https://calendar.google.com/calendar/u/0/embed?src=h9ldool7lm3fomrv98eekgcv34@group.calendar.google.com&ctz=Asia/Shanghai) in 2024
 
@@ -35,18 +35,18 @@ Here are some ideas to get you started:
 - [ ] Python 初级研习 ← PyCharm 工具 / [**中文指南**](https://pycharm.iswbm.com/)
 - [ ] 数据能力 Data-Capacity ( 采集C/检索S/分析A/展示D )
 - [ ] 知识管理系统 - PKMS  （ **TiddlyWiki** ）   
-- [ ] 项目管理力  （ **PMP** or **软考高项** ）    
+- [ ] 项目管理力  （ **PMP** or **软考高项** ）
+- [ ] **AIGC** - Gemini ProChat/Google  |  [体验网址](https://chat.darkwarrior2025.xyz/)
 
 
 ## 个人  🌱    
 - [ ] 搭建个人 PodCast / 博客站  /  VLOG 平台   /  DW 产品/业务
-    - [ ] 业务 & 技术力 输出博文 （ TGT：12 回 ） | 方案启动          
-    - [ ] 播客内容 输出音频   （ TGT：6 Episodes of 15 min ）| 未启动      
+    - [ ] 业务 & 技术力 输出博文 （ TGT：12 回 ） | 方案0次案          
+    - [ ] 播客内容 输出音频   （ TGT：3 Episodes of 15 min ）| 未启动      
     - [ ] 项目/商业/产品 提案 （ TGT：2 份 ） | 未启动      
-- [ ] 商业投资/财务报表 研读力   
-- [ ] 语言巩固提升 ( En + ESP/FRA + JPN )
+- [ ] 商业投资/财务报表 | 研读力   
+- [ ] 语言巩固提升 ( EN + JPN + ESP/FRA )
 - [ ] 搭建 Markdown 版本的简历页面  [关联repo](https://github.com/5iCruise/ROGCV2025)  |  [访问地址（待定）](https://darkwarrior2025.xyz/#)    
-- [ ] AIGC - Gemini ProChat  |  [体验网址](https://chat.darkwarrior2025.xyz/)
 
 
 ## 家庭  😄  
@@ -76,10 +76,11 @@ Here are some ideas to get you started:
 - [ ] 自行车骑行 （2024 TGT：2,400 KM ）    
     - [ ] 1230 --KM   
     - [ ] 0630 --KM   
+    - [ ] 0209 1,015KM   
 - [ ] 减重 ( BMI目标：22  控制到 72 KG )
     - [ ] 1230 --KG     
     - [ ] 0630 --KG       
-    - [ ] 0101 --KG      
+    - [ ] 0101 77KG      
 - [ ] 特殊疾病     
 
 
@@ -111,7 +112,7 @@ Here are some ideas to get you started:
 \* - EOF - \*
 
 ----
-V1  2023.12.25 UPDATED
+V1  2024.02.18 UPDATED
 
 Edit with TiddlyWiki [太记](/#tag)
 

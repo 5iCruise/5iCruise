@@ -27,23 +27,26 @@ Here are some ideas to get you started:
     - [ ]  中期计划 | + 三年行动案      
     - [ ]  远期计划 | 五～十年
 - [ ] w社 [**Berth Openday SCHD**](https://calendar.google.com/calendar/u/0/embed?src=h9ldool7lm3fomrv98eekgcv34@group.calendar.google.com&ctz=Asia/Shanghai) in 2024
+    - [ ]  HOME SHIPS： ADORA MAGIC CITY、MSC BELLISSIMA、RCI SPECTRUM of THE SEAS、BLUE DREAM MELODY、PIANO LAND(P)
+    - [ ]  CALL SHIPS： HA WESTERDAM、HA ZUIDERDAM、TUI MEIN SCHIFF 5、
 
 ### 技术栈 🔭     
 - [ ] Front-End 技术栈及应用研习 ( RM：Node.js → PWA → Electron )    
     - [ ] TypeScript 技术栈初级研习    
-    - [ ] SQL 数据库  ＜**＋**＞
-- [ ] Python 初级研习 ← PyCharm 工具 / [**中文指南**](https://pycharm.iswbm.com/)
-- [ ] 数据能力 Data-Capacity ( 采集C/检索S/分析A/展示D )
-- [ ] 知识管理系统 - PKMS  （ **TiddlyWiki** ）   
-- [ ] 项目管理力  （ **PMP** or **软考高项** ）
-- [ ] **AIGC** - Gemini ProChat/Google  |  [体验网址](https://chat.darkwarrior2025.xyz/)
+    - [ ] Python 初级研习 ← PyCharm 工具 / [**中文指南**](https://pycharm.iswbm.com/)
+- [ ] 数据能力 DataProcess-Capacity ( 采集C/检索S/分析A/展示D/全流程FP )
+    - [ ] SQL 数据库  ＜**＋**＞     
+    - [ ] 知识管理系统 - PKMS  （ 案例：**TiddlyWiki** ）   
+    - [ ] 项目管理力  （ **PMP** or **软考高项** ）    
+- [ ] **AIGC** - Gemini ProChat/Google  |  [体验网址](https://chat.darkwarrior2025.xyz/)    
+- [ ] **OLLAMA** × AnythingLLM-  本地化 **LLM** 大模型/知识库应用    
 
 
 ## 个人  🌱    
 - [ ] 搭建个人 PodCast / 博客站  /  VLOG 平台   /  DW 产品/业务
-    - [ ] 业务 & 技术力 输出博文 （ TGT：12 回 ） | 方案0次案          
+    - [ ] 业务 & 技术力 输出博文 （ TGT：12 回 ） | 方案0次案 ← Review: CONTENT CALENDAR         
     - [ ] 播客内容 输出音频   （ TGT：3 Episodes of 15 min ）| 未启动      
-    - [ ] 项目/商业/产品 提案 （ TGT：2 份 ） | 未启动      
+    - [ ] 项目/商业/产品 提案 （ TGT：2 份 ） | 未启动
 - [ ] 商业投资/财务报表 | 研读力   
 - [ ] 语言巩固提升 ( EN + JPN + ESP/FRA )
 - [ ] 搭建 Markdown 版本的简历页面  [关联repo](https://github.com/5iCruise/ROGCV2025)  |  [访问地址（待定）](https://darkwarrior2025.xyz/#)    
@@ -62,25 +65,25 @@ Here are some ideas to get you started:
             - [ ] qBittorrent ，image: linuxserver/qbittorrent:latest ，PT 下载至 4T 硬盘；
             - [ ] mkvtoolnix ，image: jlesage/mkvtoolnix:latest ，将没有 Remux 版本的原盘转成 Remux 版本；
             - [ ] samba ，image: dperson/samba ，SMB 共享文件夹；
-            - [ ] 另计划 calibre-web ，gitea ，memos ，navidrome ，zerotier 内网穿透方便在外安全访问内网服务 等；
-    - [ ] 桌面级数码录播/编辑  （ 硬件与应用环境 ）    
+            - [ ] 另计划 `calibre-web` ，gitea ，memos ，navidrome ，zerotier 内网穿透方便在外安全访问内网服务 等；
+    - [ ] 桌面级数码录播/编辑  （ 硬件与应用环境：MBP M2/ ）    
 - [ ] CHRIS MiddleSchool Graduated （ 高中: TBD. ） | 0320 BIRTHDAY     
 
 
 ## 健身 / 健康  ⚡   
 - [ ] 足球2024 ( 每周 一 ~ 二回，全年不少于 `50` 场 )    
-    - [ ] FT全年××场，进球××、助攻××、乌龙××
+    - [ ] FT全年××场，进球××、助攻××、乌龙××  | [2024年足球活动记录](https://darkwarrior2025.xyz/)
     - [ ] 1230  202412R--   **END**
-    - [ ] 0630  202406R--   
-    - [ ] 0107  →  202401R01    **OPEN**
+    - [x] 0331  →  202403R15   
+    - [x] 0107  →  202401R01    **OPEN**
 - [ ] 自行车骑行 （2024 TGT：2,400 KM ）    
     - [ ] 1230 --KM   
     - [ ] 0630 --KM   
-    - [ ] 0209 1,015KM   
+    - [x] 0323 1,115KM   
 - [ ] 减重 ( BMI目标：22  控制到 72 KG )
     - [ ] 1230 --KG     
-    - [ ] 0630 --KG       
-    - [ ] 0101 77KG      
+    - [x] 0330 `77KG`       
+    - [x] 0101 77KG      
 - [ ] 特殊疾病     
 
 
@@ -99,8 +102,9 @@ Here are some ideas to get you started:
 - [ ] 《興亡的世界史  全21卷》，讲谈社   JPN.     
 - [ ] 《中国：历史的长河  全12卷》，讲谈社   JPN.     
 - [ ] 《单读 系列》， 吴琦 主编  （ 网络收集 ）    
-- [x] 『[**图书检索网站**](https://book-searcher.eu.org/)』   
-- [x] 『[**私人书库：每周一书**](https://read.mastergo.life/)』        
+- [x] 『[**图书检索网站**](https://book-searcher.eu.org/) 』   
+- [x] 『[**私人书库：每周一书**](https://read.mastergo.life/) 』
+- [x] 『**DW Studio** 精读库 | [Calibre-Web 体验站](http://139.196.54.246:8083/) 』
 
 ## 碎片阅读  👯   
 - [ ] 《[芒格之道](https://ljf.com/archives/)》　→  LJF
@@ -112,7 +116,7 @@ Here are some ideas to get you started:
 \* - EOF - \*
 
 ----
-V1  2024.02.18 UPDATED
+V1  2024.03.23 UPDATED
 
 Edit with TiddlyWiki [太记](/#tag)
 

@@ -26,19 +26,20 @@ Here are some ideas to get you started:
     - [ ]  中期计划 | 零次案    
     - [ ]  中期计划 | + 三年行动案      
     - [ ]  远期计划 | 五～十年
-- [ ] w社 [**Berth Openday SCHD**](https://calendar.google.com/calendar/u/0/embed?src=h9ldool7lm3fomrv98eekgcv34@group.calendar.google.com&ctz=Asia/Shanghai) in 2024
-    - [ ]  HOME SHIPS： ADORA MAGIC CITY、MSC BELLISSIMA、RCI SPECTRUM of THE SEAS、BLUE DREAM MELODY、PIANO LAND(P)
-    - [ ]  CALL SHIPS： HA WESTERDAM、HA ZUIDERDAM、TUI MEIN SCHIFF 5、
+- [x] w社 [**Berth Openday SCHD**](https://calendar.google.com/calendar/u/0/embed?src=h9ldool7lm3fomrv98eekgcv34@group.calendar.google.com&ctz=Asia/Shanghai) in 2024
+    - [x]  HOME SHIPS： ADORA MAGIC CITY、MSC BELLISSIMA、RCI SPECTRUM of THE SEAS、BLUE DREAM MELODY、PIANO LAND(P)
+    - [x]  CALL SHIPS： √ HA WESTERDAM、√ HA ZUIDERDAM、√ TUI MEIN SCHIFF 5、
 
 ### 技术栈 🔭     
+- [ ] Linux 基础知识
 - [ ] Front-End 技术栈及应用研习 ( RM：Node.js → PWA → Electron )    
     - [ ] TypeScript 技术栈初级研习    
     - [ ] Python 初级研习 ← PyCharm 工具 / [**中文指南**](https://pycharm.iswbm.com/)
 - [ ] 数据能力 DataProcess-Capacity ( 采集C/检索S/分析A/展示D/全流程FP )
     - [ ] SQL 数据库  ＜**＋**＞     
-    - [ ] 知识管理系统 - PKMS  （ 案例：**TiddlyWiki** ）   
+    - [x] 知识管理系统 - PKMS  | [**TiddlyWiki** 体验网址](https://darkwarrior2025.xyz/)       
     - [ ] 项目管理力  （ **PMP** or **软考高项** ）    
-- [ ] **AIGC** - Gemini ProChat/Google  |  [体验网址](https://chat.darkwarrior2025.xyz/)    
+- [x] **AIGC** - Gemini ProChat/Google  |  [体验网址](https://chat.darkwarrior2025.xyz/)  | NEXT 如何升级？     
 - [ ] **OLLAMA** × AnythingLLM-  本地化 **LLM** 大模型/知识库应用    
 
 
@@ -49,13 +50,13 @@ Here are some ideas to get you started:
     - [ ] 项目/商业/产品 提案 （ TGT：2 份 ） | 未启动
 - [ ] 商业投资/财务报表 | 研读力   
 - [ ] 语言巩固提升 ( EN + JPN + ESP/FRA )
-- [ ] 搭建 Markdown 版本的简历页面  [关联repo](https://github.com/5iCruise/ROGCV2025)  |  [访问地址（待定）](https://darkwarrior2025.xyz/#)    
+- [ ] 搭建 Markdown 版本的简历页面  [关联repo](https://github.com/5iCruise/ROGCV2025)  |  [访问地址（P）](https://darkwarrior2025.xyz/#)    
 
 
 ## 家庭  😄  
 - [ ] **旅游** ( 2024年暑期一回计划： *海外* by Air )（ 预算30K+ ）
 - [ ] 家庭媒体/数据服务搭建 （ 预算10K ）   
-    - [ ] 家庭服务器/NAS （ 主机、系统、网络 ） v2ex网友提供[参考①](https://v2ex.com/t/992023)  [参考②](https://v2ex.com/t/1006585)    
+    - [ ] 家庭服务器/NAS （ 主机、系统、网络 ） v2ex网友提供[参考①](https://v2ex.com/t/992023) 、 [参考②](https://v2ex.com/t/1006585) 、 [参考③](https://mebtte.com/my_nas)     
         - [ ] 硬件：HP Gen8 Microserver  → HP Gen10 Plus 二手
             - [ ] CPU - E3 1265L V2 / 内存 - 16G / 显卡 - NVIDIA Quadro P400 /  硬盘 - 两块 18T 存储用，一块固态 4T 下载用；
         - [ ] 系统：Ubuntu Server 22.04 LTS
@@ -67,14 +68,14 @@ Here are some ideas to get you started:
             - [ ] samba ，image: dperson/samba ，SMB 共享文件夹；
             - [ ] 另计划 `calibre-web` ，gitea ，memos ，navidrome ，zerotier 内网穿透方便在外安全访问内网服务 等；
     - [ ] 桌面级数码录播/编辑  （ 硬件与应用环境：MBP M2/ ）    
-- [ ] CHRIS MiddleSchool Graduated （ 高中: TBD. ） | 0320 BIRTHDAY     
+- [ ] CHRIS MiddleSchool Graduated （ 中考：0615 | 高中: TBD. ） | 0320 BIRTHDAY     
 
 
 ## 健身 / 健康  ⚡   
 - [ ] 足球2024 ( 每周 一 ~ 二回，全年不少于 `50` 场 )    
-    - [ ] FT全年××场，进球××、助攻××、乌龙××  | [2024年足球活动记录](https://darkwarrior2025.xyz/)
+    - [ ] FT全年××场，进球××、助攻××、乌龙××  | [2024年足球活动记录](https://darkwarrior2025.xyz/#2024年足球活动记录)
     - [ ] 1230  202412R--   **END**
-    - [x] 0331  →  202403R15   
+    - [x] 0331  →  202403R14 |  _0327-伤停四周_     
     - [x] 0107  →  202401R01    **OPEN**
 - [ ] 自行车骑行 （2024 TGT：2,400 KM ）    
     - [ ] 1230 --KM   
@@ -88,6 +89,7 @@ Here are some ideas to get you started:
 
 
 ## 阅读  🤔   
+- [ ] 《PMBOK 指南》 第六版，PMI US. 
 - [ ] 《中年之路:人格的第二次成型》， 詹姆斯 · 霍利斯  US. ， [豆瓣8.1](https://book.douban.com/subject/36139391/) | 『[**在读**](https://read.mastergo.life/book/21)』
 - [ ] 《信息传》， 吴军  US.      
 - [ ] 《人月神话》，弗雷德里克 · 布鲁克斯  US. 『次回』   
@@ -103,7 +105,7 @@ Here are some ideas to get you started:
 - [ ] 《中国：历史的长河  全12卷》，讲谈社   JPN.     
 - [ ] 《单读 系列》， 吴琦 主编  （ 网络收集 ）    
 - [x] 『[**图书检索网站**](https://book-searcher.eu.org/) 』   
-- [x] 『[**私人书库：每周一书**](https://read.mastergo.life/) 』
+- [x] 『[**私人书库：每周一书**](https://read.mastergo.life/) 』  |  无法访问
 - [x] 『**DW Studio** 精读库 | [Calibre-Web 体验站](http://139.196.54.246:8083/) 』
 
 ## 碎片阅读  👯   
@@ -116,7 +118,7 @@ Here are some ideas to get you started:
 \* - EOF - \*
 
 ----
-V1  2024.03.23 UPDATED
+V1  2024.04.08  UPDATED
 
 Edit with TiddlyWiki [太记](/#tag)
 

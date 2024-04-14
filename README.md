@@ -1,3 +1,13 @@
+---
+layout: post
+title:  " iCruiseDATA Flags in 2024 "
+date:   2024-04-14
+version:   V1
+categories:   iCruise&Todo&2024
+---
+
+------
+
 ### Hi there 👋 I'm ROGER. 
 
 ![new_avatar](https://i.niupic.com/images/2023/12/05/dsGP.png)
@@ -29,6 +39,11 @@ Here are some ideas to get you started:
 - [x] w社 [**Berth Openday SCHD**](https://calendar.google.com/calendar/u/0/embed?src=h9ldool7lm3fomrv98eekgcv34@group.calendar.google.com&ctz=Asia/Shanghai) in 2024
     - [x]  HOME SHIPS： ADORA MAGIC CITY、MSC BELLISSIMA、RCI SPECTRUM of THE SEAS、BLUE DREAM MELODY、PIANO LAND(P)
     - [x]  CALL SHIPS： √ HA WESTERDAM、√ HA ZUIDERDAM、√ TUI MEIN SCHIFF 5、
+- [ ] ** 项目分级 **
+   * 类A - 上手快，可变现 / 
+   * 类B - 投产比50，方向明确但结果未知 / 
+   * 类C - 规划、迭代，对未来有影响  
+
 
 ### 技术栈 🔭     
 - [ ] Linux 基础知识
@@ -37,10 +52,11 @@ Here are some ideas to get you started:
     - [ ] Python 初级研习 ← PyCharm 工具 / [**中文指南**](https://pycharm.iswbm.com/)
 - [ ] 数据能力 DataProcess-Capacity ( 采集C/检索S/分析A/展示D/全流程FP )
     - [ ] SQL 数据库  ＜**＋**＞     
+    - [ ] 项目管理力  （ **PMP** or **软考高项** ）
+- [ ] **多端数据同步管理方案**
     - [x] 知识管理系统 - PKMS  | [**TiddlyWiki** 体验网址](https://darkwarrior2025.xyz/)       
-    - [ ] 项目管理力  （ **PMP** or **软考高项** ）    
 - [x] **AIGC** - Gemini ProChat/Google  |  [体验网址](https://chat.darkwarrior2025.xyz/)  | NEXT 如何升级？     
-- [ ] **OLLAMA** × AnythingLLM-  本地化 **LLM** 大模型/知识库应用    
+- [ ] **OLLAMA** × AnythingLLM-  本地化 **LLM** 大模型/知识库应用, **QAnything** 知识库 Youdao      
 
 
 ## 个人  🌱    
@@ -55,8 +71,12 @@ Here are some ideas to get you started:
 
 ## 家庭  😄  
 - [ ] **旅游** ( 2024年暑期一回计划： *海外* by Air )（ 预算30K+ ）
-- [ ] 家庭媒体/数据服务搭建 （ 预算10K ）   
-    - [ ] 家庭服务器/NAS （ 主机、系统、网络 ） v2ex网友提供[参考①](https://v2ex.com/t/992023) 、 [参考②](https://v2ex.com/t/1006585) 、 [参考③](https://mebtte.com/my_nas)     
+- [ ] 家庭媒体/数据应用服务平台搭建 （ 预算20K ）
+    - [ ] 工作主机（用于 *本地大模型/知识库* 平台搭建）
+        - [ ] 硬件：i7 + 64G + GPU
+        - [ ] 系统：Ubuntu Sever / Win11 WSL
+        - [ ] LLM + APP： Ollama + QAnything [推荐](/#up主)
+    - [ ] 家庭服务器/NAS （ 主机、系统、网络 ）→ v2ex网友提供[参考①](https://v2ex.com/t/992023) 、 [参考②](https://v2ex.com/t/1006585) 、 [参考③](https://mebtte.com/my_nas)
         - [ ] 硬件：HP Gen8 Microserver  → HP Gen10 Plus 二手
             - [ ] CPU - E3 1265L V2 / 内存 - 16G / 显卡 - NVIDIA Quadro P400 /  硬盘 - 两块 18T 存储用，一块固态 4T 下载用；
         - [ ] 系统：Ubuntu Server 22.04 LTS
@@ -75,7 +95,7 @@ Here are some ideas to get you started:
 - [ ] 足球2024 ( 每周 一 ~ 二回，全年不少于 `50` 场 )    
     - [ ] FT全年××场，进球××、助攻××、乌龙××  | [2024年足球活动记录](https://darkwarrior2025.xyz/#2024年足球活动记录)
     - [ ] 1230  202412R--   **END**
-    - [x] 0331  →  202403R14 |  _0327-伤停四周_     
+    - [x] 0327  →  202403R14 |  _0327-伤停四周_     
     - [x] 0107  →  202401R01    **OPEN**
 - [ ] 自行车骑行 （2024 TGT：2,400 KM ）    
     - [ ] 1230 --KM   
@@ -117,8 +137,7 @@ Here are some ideas to get you started:
 
 \* - EOF - \*
 
-----
-V1  2024.04.08  UPDATED
+～～～～～～
 
-Edit with TiddlyWiki [太记](/#tag)
+Edit with [TiddlyWiki](/#tag) | [太记](/#tag) | [Todo](/#tag) | [2024](/#tag)  
 

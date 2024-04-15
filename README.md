@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - [x] w社 [**Berth Openday SCHD**](https://calendar.google.com/calendar/u/0/embed?src=h9ldool7lm3fomrv98eekgcv34@group.calendar.google.com&ctz=Asia/Shanghai) in 2024
     - [x]  HOME SHIPS： ADORA MAGIC CITY、MSC BELLISSIMA、RCI SPECTRUM of THE SEAS、BLUE DREAM MELODY、PIANO LAND(P)
     - [x]  CALL SHIPS： √ HA WESTERDAM、√ HA ZUIDERDAM、√ TUI MEIN SCHIFF 5、
-- [ ] ** 项目分级 **
+- [ ] **私有化项目分级**
    * 类A - 上手快，可变现 / 
    * 类B - 投产比50，方向明确但结果未知 / 
    * 类C - 规划、迭代，对未来有影响  

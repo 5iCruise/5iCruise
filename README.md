@@ -10,7 +10,7 @@ categories:   iCruise&Todo&2024
 
 ### Hi there 👋 I'm ROGER. 
 
-![new_avatar](https://i.niupic.com/images/2023/12/05/dsGP.png)
+![new_avatar](https://cdn.jsdelivr.us/gh/iCruiseDATA/imgdb@main/images/New%20Avatar%20NBG.png)
 
 <!--
 **5iCruise/5iCruise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

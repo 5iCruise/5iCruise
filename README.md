@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " iCruiseDATA Flags in 2024 "
-date:   2024-04-14
+date:   2024-07-04
 version:   V1
 categories:   iCruise&Todo&2024
 ---
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
     - [ ]  中期计划 | + 三年行动案      
     - [ ]  远期计划 | 五～十年
 - [x] w社 [**Berth Openday SCHD**](https://calendar.google.com/calendar/u/0/embed?src=h9ldool7lm3fomrv98eekgcv34@group.calendar.google.com&ctz=Asia/Shanghai) in 2024
-    - [x]  HOME SHIPS： ADORA MAGIC CITY、MSC BELLISSIMA、RCI SPECTRUM of THE SEAS、BLUE DREAM MELODY、PIANO LAND(P)
+    - [x]  HOME SHIPS： ADORA MAGIC CITY、MSC BELLISSIMA、RCI SPECTRUM of THE SEAS、BLUE DREAM MELODY(0617-ST/WSK)、PIANO LAND(0725-ST)
     - [x]  CALL SHIPS： √ HA WESTERDAM、√ HA ZUIDERDAM、√ TUI MEIN SCHIFF 5、
 - [ ] **私有化项目分级**
    * 类A - 上手快，可变现 / 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 
 ## 家庭  😄  
-- [ ] **旅游** ( 2024年暑期一回计划： *海外* by Air )（ 预算30K+ ）
+- [x] **旅游** ( 2024年暑期一回计划： JULY **北京** by Train )（ 旅费约12K / 预算30K+ ）
 - [ ] 家庭媒体/数据应用服务平台搭建 （ 预算20K ）
     - [ ] 工作主机（用于 *本地大模型/知识库* 平台搭建）
         - [ ] 硬件：i7 + 64G + GPU
@@ -95,21 +95,23 @@ Here are some ideas to get you started:
 - [ ] 足球2024 ( 每周 一 ~ 二回，全年不少于 `50` 场 )    
     - [ ] FT全年××场，进球××、助攻××、乌龙××  | [2024年足球活动记录](https://darkwarrior2025.xyz/#2024年足球活动记录)
     - [ ] 1230  202412R--   **END**
-    - [x] 0327  →  202403R14 |  _0327-伤停四周_     
+    - [x] 0327  →  202403R14 |  _0327 → 伤停三月_     
     - [x] 0107  →  202401R01    **OPEN**
 - [ ] 自行车骑行 （2024 TGT：2,400 KM ）    
     - [ ] 1230 --KM   
-    - [ ] 0630 --KM   
+    - [x] 0630 1,400KM   
     - [x] 0323 1,115KM   
 - [ ] 减重 ( BMI目标：22  控制到 72 KG )
-    - [ ] 1230 --KG     
+    - [ ] 1230 --KG
+    - [x] 0630 `80KG`
     - [x] 0330 `77KG`       
     - [x] 0101 77KG      
 - [ ] 特殊疾病     
 
 
 ## 阅读  🤔   
-- [ ] 《PMBOK 指南》 第六版，PMI US. 
+- [ ] 《PMBOK 指南》 第六版，PMI US.
+- [ ] 《DAMA数据管理知识体系指南》  第二版，DAMA INTERNATIONAL    
 - [ ] 《中年之路:人格的第二次成型》， 詹姆斯 · 霍利斯  US. ， [豆瓣8.1](https://book.douban.com/subject/36139391/) | 『[**在读**](https://read.mastergo.life/book/21)』
 - [ ] 《信息传》， 吴军  US.      
 - [ ] 《人月神话》，弗雷德里克 · 布鲁克斯  US. 『次回』   

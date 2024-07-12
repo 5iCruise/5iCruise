@@ -10,7 +10,7 @@ categories:   iCruise&Todo&2024
 
 ### Hi there 👋 I'm ROGER. 
 
-![new_avatar](https://cdn.jsdelivr.us/gh/iCruiseDATA/imgdb@main/images/New%20Avatar%20NBG.png)
+![new_avatar](https://fastly.jsdelivr.net/gh/iCruiseDATA/imgdb@main/images/New%20Avatar%20NBG.png)
 
 <!--
 **5iCruise/5iCruise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -88,7 +88,7 @@ Here are some ideas to get you started:
             - [ ] samba ，image: dperson/samba ，SMB 共享文件夹；
             - [ ] 另计划 `calibre-web` ，gitea ，memos ，navidrome ，zerotier 内网穿透方便在外安全访问内网服务 等；
     - [ ] 桌面级数码录播/编辑  （ 硬件与应用环境：MBP M2/ ）    
-- [ ] CHRIS MiddleSchool Graduated （ 中考：0615 | 高中: TBD. ） | 0320 BIRTHDAY     
+- [x] CHRIS MiddleSchool Graduated （ 中考：0615/**634** | 高中: BS区重 ） | 0320 BIRTHDAY     
 
 
 ## 健身 / 健康  ⚡   
@@ -99,9 +99,9 @@ Here are some ideas to get you started:
     - [x] 0107  →  202401R01    **OPEN**
 - [ ] 自行车骑行 （2024 TGT：2,400 KM ）    
     - [ ] 1230 --KM   
-    - [x] 0630 1,400KM   
+    - [x] 0630 1,450KM   
     - [x] 0323 1,115KM   
-- [ ] 减重 ( BMI目标：22  控制到 72 KG )
+- [ ] 减重 ( BMI目标：22  控制到 75 KG )
     - [ ] 1230 --KG
     - [x] 0630 `80KG`
     - [x] 0330 `77KG`       
@@ -112,7 +112,8 @@ Here are some ideas to get you started:
 ## 阅读  🤔   
 - [ ] 《PMBOK 指南》 第六版，PMI US.
 - [ ] 《DAMA数据管理知识体系指南》  第二版，DAMA INTERNATIONAL    
-- [ ] 《中年之路:人格的第二次成型》， 詹姆斯 · 霍利斯  US. ， [豆瓣8.1](https://book.douban.com/subject/36139391/) | 『[**在读**](https://read.mastergo.life/book/21)』
+- [ ] 《中年之路:人格的第二次成型》， 詹姆斯 · 霍利斯  US. ， [豆瓣8.1](https://book.douban.com/subject/36139391/) | 『[**在读**](https://*/)』    
+- [ ] 《Other Rivers: A Chinese Education》 （他乡之河：中国教育），彼得 · 海斯勒（何伟）  US.    
 - [ ] 《信息传》， 吴军  US.      
 - [ ] 《人月神话》，弗雷德里克 · 布鲁克斯  US. 『次回』   
 - [ ] 《中国国家治理的制度逻辑：一个组织学研究》， 周雪光  CN.     

@@ -2,7 +2,7 @@
 layout: post
 title:  " iCruiseDATA Flags in 2025 "
 date:   2025-01-02
-version:   V0
+version:   V0.5
 categories:   iCruise&Todo&2025
 ---
 
@@ -10,7 +10,7 @@ categories:   iCruise&Todo&2025
 
 ### Hi there 👋 I'm ROGER. 
 
-![new_avatar](https://fastly.jsdelivr.net/gh/iCruiseDATA/imgdb@main/images/New%20Avatar%20NBG.png)
+![new_avatar](https://fastly.jsdelivr.net/gh/iCruiseDATA/picx-images-hosting@master/20250102/Tangtang.pfeyq6m69.webp "Here's my new family buddy ' TangTang '.")
 
 <!--
 **5iCruise/5iCruise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -76,23 +76,16 @@ Here are some ideas to get you started:
         - [ ] 硬件：i7 + 64G + GPU
         - [ ] 系统：Ubuntu Sever / Win11 WSL
         - [ ] LLM + APP： Ollama + QAnything [推荐](/#up主)
-    - [ ] 兼容 “家庭服务器/NAS” （ 主机、系统、网络 ）
-          > → v2ex网友提供[参考①](https://v2ex.com/t/992023) 、 [参考②](https://v2ex.com/t/1006585) 、 [参考③](https://mebtte.com/my_nas)
-        - [ ] 硬件：HP Gen8 Microserver  → HP Gen10 Plus 二手 （迷你主机替代）
-            - [ ] CPU - E3 1265L V2 / 内存 - 16G / 显卡 - NVIDIA Quadro P400 /  硬盘 - 两块 18T 存储用，一块固态 2T 下载用；
-        - [ ] 系统：Ubuntu Server 24.04 LTS
-        - [ ] 软件：均为 Docker 。
-            - [ ] Jellyfin ，image: nyanmisaka/jellyfin:latest ，影音库，已配置显卡硬转码；
-            - [ ] 影音资料库配置：Sonarr+radarr 自动追剧下载，jackett 聚合 bt；pt 搜索导入 Sonarr+radarr 作为搜索 indexer ；iyuu 方便 pt 站间辅种。
-            - [ ] qBittorrent ，image: linuxserver/qbittorrent:latest ，PT 下载至 4T 硬盘；
-            - [ ] mkvtoolnix ，image: jlesage/mkvtoolnix:latest ，将没有 Remux 版本的原盘转成 Remux 版本；
-            - [ ] samba ，image: dperson/samba ，SMB 共享文件夹；
-            - [ ] 另计划 `calibre-web` ，gitea ，memos ，navidrome ，zerotier 内网穿透方便在外安全访问内网服务 等；
+    - [ ] “家庭服务器/NAS” （ 主机、系统、网络 ）
+         > v2ex网友提供[参考①](https://v2ex.com/t/992023) 、 [参考②](https://v2ex.com/t/1006585) 、 [参考③](https://mebtte.com/my_nas)    
+         > 项目搭建/跟踪 [链接](https://darkwarrior2025.xyz/#HOME%20NAS%20BUILT%20-%202025:QuickNotes%20%5B%5BHOME%20NAS%20BUILT%20-%202025%5D%5D%20Y-%E7%A1%AC%E4%BB%B6%26%E7%B3%BB%E7%BB%9F%26%E5%BA%94%E7%94%A8%E9%85%8D%E7%BD%AE%20%24%3A%2Fplugins%2Fnico%2Fprojectify%2Fui%2Fconfig%2FCategories%20%E6%83%B3%E6%B3%95%E6%94%B6%E9%9B%86%E5%99%A8)
     - [ ] 桌面级数码录播/编辑  （ 硬件与应用环境：√MacBook Air M3 + 扩展坞 ）    
 - [ ] CHRIS HighSchool Extra-Tutoring （ 高一合格考 ） | 0320-BIRTHDAY    
     - [ ] 英 | 数 | 物 | 化  → （暑、寒、学期×2）  
     - [ ] 美术
-- [ ] ROG 升级电动自行车 （预算8K）| 自行车 → 10KM内 / 电动自动车→ 20KM
+    - [ ] 日语
+- [ ] ROG 升级电瓶车 🛵 （预算8K | 扩大活动半径）
+     > 自行车 → 15KM（极限） / 电动自动车→ 25KM
 
 
 ## 健身 / 健康  ⚡   
@@ -135,7 +128,7 @@ Here are some ideas to get you started:
 - [x] 『**DW Studio** 精读库 | [Calibre-Web 体验站](http://139.196.54.246:8083/) 』
  
 
-## 碎片阅读  👯   
+## 碎片阅读/RSS订阅  👯   
 - [ ] 《[芒格之道](https://ljf.com/archives/)》　→  LJF
 - [ ] 《[禅与摩托车维修艺术](https://digest.wiki-power.com/)》  →  Power's Digest
 - [ ] 《[周刊：不如吃茶去](https://weekly.zishu.me/weekly/)》   →  ZiShu     

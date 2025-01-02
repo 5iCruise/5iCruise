@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " iCruiseDATA Flags in 2024 "
-date:   2024-12-27
+date:   2024-12-31
 version:   V1
 categories:   iCruise&Todo&2024
 ---
@@ -94,12 +94,12 @@ Here are some ideas to get you started:
 
 ## 健身 / 健康  ⚡   
 - [ ] 足球2024 ( 每周 一 ~ 二回，全年不少于 `50` 场 )    
-    - [ ] FT全年61场，进球××、助攻××、乌龙××  | [2024年足球活动记录](https://darkwarrior2025.xyz/#2024年足球活动记录)
+    - [x] FT全年61场，进球××、助攻××、乌龙××  | [2024年足球活动记录](https://darkwarrior2025.xyz/#2024年足球活动记录)
     - [x] 1228  →  202412R61   **END**
     - [x] 0327  →  202403R14 |  _0327 → 伤停三月_     
     - [x] 0107  →  202401R01    **OPEN**
 - [ ] 自行车骑行 （2024 TGT：2,400 KM ）    
-    - [ ] 1230 --KM   
+    - [x] 1231 2,400KM   
     - [x] 0630 1,450KM   
     - [x] 0323 1,115KM   
 - [ ] 减重 ( BMI目标：22  控制到 75 KG ) Fail

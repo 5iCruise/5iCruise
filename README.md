@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " iCruiseDATA Flags in 2025 "
-date:   2025-02-13
+date:   2025-02-26
 version:   V0.5
 categories:   iCruise&Todo&2025
 ---
@@ -143,7 +143,8 @@ Here are some ideas to get you started:
 - [ ] 《[Linux Console](https://cn.linux-console.net/)》  → Linux 运维/技术/系统    
 
 
-\* - EOF - \*
+![Threshold](https://iconce.com/api/v1?type=text&w=390&h=35&value=%E2%AD%90FORGED%20by%20ADVERSITY%E2%AD%90&animate=true&fillType=Linear&primaryColor=%23FC466B&secondaryColor=%233F5EFB&angle=45&radialGlare=false&radius=8&strokeSize=0&strokeColor=%23FFFFFF&strokeOpacity=100&color=%23FFFFFF&size=15&family=cursive)
+
 
 ～～～～～～
 

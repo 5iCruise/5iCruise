@@ -10,7 +10,7 @@ categories:   iCruise&Todo&2025
 
 ### Hi there 👋 I'm ROGER. 
 
-![new_avatar](https://raw.githubusercontent.com/iCruiseDATA/picx-images-hosting/refs/heads/master/20250102/Tangtang.pfeyq6m69.webp "Here's my new family buddy ' TangTang '.")
+![new_avatar](./Tangtang.webp  "Here's my new family buddy ' TangTang '.")
 
 <!--
 **5iCruise/5iCruise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

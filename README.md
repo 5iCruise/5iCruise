@@ -10,7 +10,7 @@ categories:   iCruise&Todo&2025
 
 ### Hi there 👋 I'm ROGER. 
 
-![new_avatar](https://fastly.jsdelivr.net/gh/iCruiseDATA/picx-images-hosting@master/20250102/Tangtang.pfeyq6m69.webp "Here's my new family buddy ' TangTang '.")
+![new_avatar](https://raw.githubusercontent.com/iCruiseDATA/picx-images-hosting/refs/heads/master/20250102/Tangtang.pfeyq6m69.webp "Here's my new family buddy ' TangTang '.")
 
 <!--
 **5iCruise/5iCruise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 - [ ] 经营战略 & 里程碑 作成
     - [ ]  中期计划 | **零次案** + 三年行动案     
     - [ ]  远期计划 | 五～十年
-- [ ] w社 [**Berth Openday SCHD**](#216-Ships) in 2025 `Pub-0207`
+- [ ] w社 [**Berth Openday SCHD**](#226-Ships) in 2025 `Pub-0421`
     - [x]  HOME SHIPS： **ADORA MAGIC CITY**、**RCI SPECTRUM of THE SEAS**、BLUE DREAM MELODY，_MSC BELLISSIMA_、_PIANO LAND_
-    - [ ]  CALL SHIPS： √ HA WESTERDAM、√ HA ZUIDERDAM、√ TUI MEIN SCHIFF 5、
+    - [ ]  CALL SHIPS： √ HA WESTERDAM、√ HA ZUIDERDAM、√ TUI MEIN SCHIFF 5、COSTA SERENA、
 - [ ] **私有化项目分级**  
    * 类A - 上手快，可变现 / 
    * 类B - 投产比50，方向明确但结果未知 / 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 
 ### 技术栈 🔭     
-- [ ] Linux 基础知识：搭建 fnOS（Debian NAS） + Ubuntu 24.04 + DevOps + Security
+- [ ] Linux 基础知识：搭建 fnOS（Debian NAS） + Ubuntu 24.04 + DevOps + Security & Network Deployment
 - [ ] Front-End 技术栈及应用研习 ( RM：Node.js → PWA → Electron )    
     - [ ] TypeScript 技术栈初级研习
     - [ ] Vue ( Vite ... 
@@ -105,7 +105,8 @@ Here are some ideas to get you started:
     - [ ] 1231 `--KG`
     - [ ] 0630 `--KG`    
     - [x] 0101 77KG      
-- [ ] 特殊疾病     
+- [ ] 特殊疾病
+    - [x] 0405 病毒感染/鼻炎并发症 等
 
 
 ## 阅读  🤔   

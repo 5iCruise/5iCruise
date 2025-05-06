@@ -12,6 +12,8 @@ categories:   iCruise&Todo&2025
 
 ![new_avatar](https://i.postimg.cc/Mpdj1qSK/Tangtang.webp  "Here's my new family buddy ' TangTang '.")
 
+[ROGER Ghibli Style](https://lc-gluttony.s3.amazonaws.com/LSX6nt5pudU7/NwWIxTrIBJCxdFSzJaVlUcIs8Fn74qoe/ROGER_G_STYLE%20S.png "ROGER Ghibli Style")
+
 
 <!--
 **5iCruise/5iCruise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

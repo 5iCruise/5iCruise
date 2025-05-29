@@ -10,7 +10,8 @@ categories:   iCruise&Todo&2025
 
 ### Hi there 👋 I'm ROGER. 
 
-![new_avatar](https://i.postimg.cc/Mpdj1qSK/Tangtang.webp  "Here's my new family buddy ' TangTang '.")
+![new_avatar](https://i.postimg.cc/Mpdj1qSK/Tangtang.webp  "He's my new family buddy ' TangTang '.")
+![20250505-Dangdang.jpg](https://i.postimg.cc/6prRy8zL/20250505-Dangdang.jpg   "She's my new family buddy ' DangDang '.")
 
 [ROGER Ghibli Style](https://lc-gluttony.s3.amazonaws.com/LSX6nt5pudU7/NwWIxTrIBJCxdFSzJaVlUcIs8Fn74qoe/ROGER_G_STYLE%20S.png "ROGER Ghibli Style")
 

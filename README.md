@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " iCruiseDATA Flags in 2025 "
-date:   2025-02-26
+date:   2025-06-10
 version:   V0.5
 categories:   iCruise&Todo&2025
 ---
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
     - [ ] 项目/商业/产品 提案 （ TGT：2 份 ） | 未启动
 - [ ] 语言巩固提升 ( EN + JPN + ESP/FRA )
 - [ ] 备'游'计划  ×  VAN Tour  
-- [ ] 备'润'预想
+- [ ] 备'润'预想  ×  F财产、S语言、E环境、L生活 … …    
 
 
 ## 家庭  😄  
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
         - [ ] 系统：Ubuntu Sever / Win11 WSL
         - [ ] LLM + APP： Ollama + QAnything [备选方案](/#up主)
     - [ ] “家庭服务器/NAS” （ 主机、系统、网络 ）
-         > v2ex网友提供[参考①](https://v2ex.com/t/992023) 、 [参考②](https://v2ex.com/t/1006585) 、 [参考③](https://mebtte.com/my_nas)    
+         > v2ex网友提供[参考①](https://v2ex.com/t/992023) 、 [参考②](https://v2ex.com/t/1006585) 、 [参考③](https://mebtte.com/my_nas)、[参考④](https://osnsyc.top/posts/home-server-overview/)    
          > 项目搭建/跟踪 [链接](https://darkwarrior2025.xyz/#HOME%20NAS%20BUILT%20-%202025:QuickNotes%20%5B%5BHOME%20NAS%20BUILT%20-%202025%5D%5D%20Y-%E7%A1%AC%E4%BB%B6%26%E7%B3%BB%E7%BB%9F%26%E5%BA%94%E7%94%A8%E9%85%8D%E7%BD%AE%20%24%3A%2Fplugins%2Fnico%2Fprojectify%2Fui%2Fconfig%2FCategories%20%E6%83%B3%E6%B3%95%E6%94%B6%E9%9B%86%E5%99%A8)
     - [ ] 桌面级数码录播/编辑  （ 硬件与应用环境：√MacBook Air M3 + 扩展坞 ）    
 - [ ] CHRIS HighSchool Extra-Tutoring （ 高一合格考 ） | 0320-BIRTHDAY    
@@ -103,11 +103,11 @@ Here are some ideas to get you started:
     - [x] 0101  →  202501R01    **SEASON OPEN**
 - [ ] 自行车骑行 （2025 TGT：1,500 KM ）    
     - [ ] 1231 -,-00KM   
-    - [ ] 0630 -,-00KM   
+    - [x] 0630 3,150KM   
     - [x] 0101 2,400KM   
 - [ ] 减重 ( BMI目标：22  控制到 75 KG ) Fail
     - [ ] 1231 `--KG`
-    - [ ] 0630 `--KG`    
+    - [x] 0630 77KG    
     - [x] 0101 77KG      
 - [ ] 特殊疾病
     - [x] 0405 病毒感染/鼻炎并发症 等

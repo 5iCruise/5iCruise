@@ -72,7 +72,8 @@ Here are some ideas to get you started:
     - [ ] 播客运营 → 输出音频   （ TGT：3 Episodes of 15 min ）| 未启动      
     - [ ] 项目/商业/产品 提案 （ TGT：2 份 ） | 未启动
 - [ ] 语言巩固提升 ( EN + JPN + ESP/FRA )
-- [ ] 备'游'计划  ×  VAN Tour  
+- [ ] 备'游'计划  ×  VAN Tour
+    - [ ] 江苏德兴房车制造 （ 案例：'猿叔碎碎念'  BYD T5 DM ） 整备预算：¥40w+    
 - [ ] 备'润'预想  ×  F财产、S语言、E环境、L生活 … …    
 
 

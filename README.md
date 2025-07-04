@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " iCruiseDATA Flags in 2025 "
-date:   2025-06-10
+date:   2025-07-03
 version:   V0.5
 categories:   iCruise&Todo&2025
 ---
@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 - [ ] 经营战略 & 里程碑 作成
     - [ ]  中期计划 | **零次案** + 三年行动案     
     - [ ]  远期计划 | 五～十年
-- [ ] w社 [**Berth Openday SCHD**](#226-Ships) in 2025 `Pub-0421`
+- [ ] w社 [**Berth Openday SCHD**](#227-Ships) in 2025 `Pub-0606`
     - [x]  HOME SHIPS： **ADORA MAGIC CITY**、**RCI SPECTRUM of THE SEAS**、BLUE DREAM MELODY，_MSC BELLISSIMA_、_PIANO LAND_
-    - [ ]  CALL SHIPS： √ HA WESTERDAM、√ HA ZUIDERDAM、√ TUI MEIN SCHIFF 5、COSTA SERENA、
+    - [x]  CALL SHIPS： √ HA WESTERDAM、√ HA ZUIDERDAM、√ TUI MEIN SCHIFF 5、√ COSTA SERENA、
 - [ ] **私有化项目分级**  
    * 类A - 上手快，可变现 / 
    * 类B - 投产比50，方向明确但结果未知 / 
@@ -60,9 +60,10 @@ Here are some ideas to get you started:
 - [ ] **多端数据同步管理方案**
     - [ ] 网文笔记系统（类博客） -  [**TiddlyWiki**](https://darkwarrior2025.xyz/)
     - [ ] 知识管理构建 - PKMS
-- [ ] AI 大模型 + 应用UI + Agent    
+- [ ] AI 大模型 + 应用UI + Prompt Agent    
     - [ ] **OLLAMA** × AnythingLLM-  本地化 **LLM** 大模型/知识库应用, **QAnything** 知识库 Youdao    
-    - [ ] **DeepSeek** × Cline ... - VSCode 辅助   
+    - [ ] **DeepSeek** × Cline ... - VSCode 辅助
+    - [ ] **PromptEngineering** 提示词工程  [基础知识&教程&案例](https://learnprompting.org/)
 
 
 ## 个人  🌱    
@@ -98,17 +99,17 @@ Here are some ideas to get you started:
 
 ## 健身 / 健康  ⚡   
 - [ ] 足球2025 ( 每周 一 ~ 二回，全年计划 `55` 场 )    
-    - [ ] FT全年××场，进球××、助攻××、乌龙××  | [2025年足球活动记录](https://darkwarrior2025.xyz/#2024年足球活动记录)
+    - [ ] FT全年××场，进球××、助攻××、乌龙××  | [2025年足球活动记录](https://darkwarrior2025.xyz/#2024~2025年足球活动记录)
     - [ ] 1231  →  202512R55    **END**
-    - [ ] 0630  →  202506R35       
+    - [x] 0630  →  202506R37       
     - [x] 0101  →  202501R01    **SEASON OPEN**
 - [ ] 自行车骑行 （2025 TGT：1,500 KM ）    
     - [ ] 1231 -,-00KM   
-    - [x] 0630 3,150KM   
+    - [x] 0630 3,200KM   
     - [x] 0101 2,400KM   
 - [ ] 减重 ( BMI目标：22  控制到 75 KG ) Fail
     - [ ] 1231 `--KG`
-    - [x] 0630 77KG    
+    - [x] 0630 78KG    
     - [x] 0101 77KG      
 - [ ] 特殊疾病
     - [x] 0405 病毒感染/鼻炎并发症 等

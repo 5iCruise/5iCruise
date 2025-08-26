@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  " iCruiseDATA Flags in 2025 "
-date:   2025-07-03
-version:   V0.5
+date:   2025-08-26
+version:   V0.6
 categories:   iCruise&Todo&2025
 ---
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - [ ] 经营战略 & 里程碑 作成
     - [ ]  中期计划 | **零次案** + 三年行动案     
     - [ ]  远期计划 | 五～十年
-- [ ] w社 [**Berth Openday SCHD**](#227-Ships) in 2025 `Pub-0606`
+- [ ] w社 [**Berth Openday SCHD**](#230-Ships) in 2025 `Pub-0703`
     - [x]  HOME SHIPS： **ADORA MAGIC CITY**、**RCI SPECTRUM of THE SEAS**、BLUE DREAM MELODY，_MSC BELLISSIMA_、_PIANO LAND_
     - [x]  CALL SHIPS： √ HA WESTERDAM、√ HA ZUIDERDAM、√ TUI MEIN SCHIFF 5、√ COSTA SERENA、
 - [ ] **私有化项目分级**  
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
     - [ ] 项目管理力  （ **PMP** ）
 - [ ] **多端数据同步管理方案**
     - [ ] 网文笔记系统（类博客） -  [**TiddlyWiki**](https://darkwarrior2025.xyz/)
-    - [ ] 知识管理构建 - PKMS
+    - [ ] 知识管理构建PKMS -  「**Obsidian**」
 - [ ] AI 大模型 + 应用UI + Prompt Agent    
     - [ ] **OLLAMA** × AnythingLLM-  本地化 **LLM** 大模型/知识库应用, **QAnything** 知识库 Youdao    
     - [ ] **DeepSeek** × Cline ... - VSCode 辅助
@@ -86,14 +86,15 @@ Here are some ideas to get you started:
         - [ ] 系统：Ubuntu Sever / Win11 WSL
         - [ ] LLM + APP： Ollama + QAnything [备选方案](/#up主)
     - [ ] “家庭服务器/NAS” （ 主机、系统、网络 ）
+         > 飞牛零刻MEmini 六盘全闪NAS 主机¥1299.0 + M.2固态硬盘 2T ×3 @¥700.0E
          > v2ex网友提供[参考①](https://v2ex.com/t/992023) 、 [参考②](https://v2ex.com/t/1006585) 、 [参考③](https://mebtte.com/my_nas)、[参考④](https://osnsyc.top/posts/home-server-overview/)    
          > 项目搭建/跟踪 [链接](https://darkwarrior2025.xyz/#HOME%20NAS%20BUILT%20-%202025:QuickNotes%20%5B%5BHOME%20NAS%20BUILT%20-%202025%5D%5D%20Y-%E7%A1%AC%E4%BB%B6%26%E7%B3%BB%E7%BB%9F%26%E5%BA%94%E7%94%A8%E9%85%8D%E7%BD%AE%20%24%3A%2Fplugins%2Fnico%2Fprojectify%2Fui%2Fconfig%2FCategories%20%E6%83%B3%E6%B3%95%E6%94%B6%E9%9B%86%E5%99%A8)
     - [ ] 桌面级数码录播/编辑  （ 硬件与应用环境：√MacBook Air M3 + 扩展坞 ）    
-- [ ] CHRIS HighSchool Extra-Tutoring （ 高一合格考 ） | 0320-BIRTHDAY    
+- [ ] CHRIS HighSchool Extra-Tutoring （ 高一合格考/信息 √ ） | 0320-BIRTHDAY    
     - [ ] 英 | 数 | 物 | 化  → （暑、寒、学期×2）  
-    - [ ] 美术
+    - [x] 美术 （国美-水粉六级 √、中福-素描九级 √）
     - [ ] 日语
-- [ ] ROG 升级电瓶车 🛵 （预算8K | 扩大活动半径）
+- [ ] 「__国家新行规实施，观望中__」ROG 升级电瓶车 🛵 （预算5K | 扩大活动半径）
      > 自行车 → 15KM（极限） / → 电动自动车→ 25KM
 
 

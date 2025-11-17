@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " iCruiseDATA Flags in 2025 "
-date:   2025-08-26
+date:   2025-11-17
 version:   V0.6
 categories:   iCruise&Todo&2025
 ---
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 
 ## 个人  🌱    
-- [ ] **考证**：系统规划与管理师（软考高级）  2025-下半年 | [软考达人](https://ruankaodaren.com/exam/#/)  
+- [x] **考证**：1109-系统规划与管理师（软考高级）  2025-下半年 | [软考达人](https://ruankaodaren.com/exam/#/)  
 - [ ] 搭建个人 博客 / 播客 /  VLOG | PLOG  →  输出/推广 DW 产品/业务
     - [ ] 写作力 & 技术力 → 输出博文 （ TGT：12 回 ） | 方案0次案 ← Review: CONTENT CALENDAR         
     - [ ] 播客运营 → 输出音频   （ TGT：3 Episodes of 15 min ）| 未启动      
@@ -79,14 +79,14 @@ Here are some ideas to get you started:
 
 
 ## 家庭  😄  
-- [ ] **旅游** ( 2025年暑期一回计划： -- )（ 旅费约--K / 预算15K+ ）
+- [x] **旅游** ( 2025年暑期一回计划： 杭州/苏州 )（ 旅费约2K / 预算15K+ ）
 - [ ] 家庭媒体/数据应用服务平台搭建 （ 预算20K → 升级 H3421PC ）
     - [ ] 工作主机升级（用于 *本地大模型/知识库* 平台搭建）（预算12K | DIY）
         - [ ] 硬件：i7 + 64G + GPU
         - [ ] 系统：Ubuntu Sever / Win11 WSL
         - [ ] LLM + APP： Ollama + QAnything [备选方案](/#up主)
     - [ ] “家庭服务器/NAS” （ 主机、系统、网络 ）
-         > 飞牛零刻MEmini 六盘全闪NAS 主机¥1299.0 + M.2固态硬盘 2T ×3 @¥700.0E
+         > [放弃/产品缺陷]飞牛零刻MEmini 六盘全闪NAS 主机¥1299.0 + M.2固态硬盘 2T ×3 @¥700.0E
          > v2ex网友提供[参考①](https://v2ex.com/t/992023) 、 [参考②](https://v2ex.com/t/1006585) 、 [参考③](https://mebtte.com/my_nas)、[参考④](https://osnsyc.top/posts/home-server-overview/)    
          > 项目搭建/跟踪 [链接](https://darkwarrior2025.xyz/#HOME%20NAS%20BUILT%20-%202025:QuickNotes%20%5B%5BHOME%20NAS%20BUILT%20-%202025%5D%5D%20Y-%E7%A1%AC%E4%BB%B6%26%E7%B3%BB%E7%BB%9F%26%E5%BA%94%E7%94%A8%E9%85%8D%E7%BD%AE%20%24%3A%2Fplugins%2Fnico%2Fprojectify%2Fui%2Fconfig%2FCategories%20%E6%83%B3%E6%B3%95%E6%94%B6%E9%9B%86%E5%99%A8)
     - [ ] 桌面级数码录播/编辑  （ 硬件与应用环境：√MacBook Air M3 + 扩展坞 ）    
@@ -94,26 +94,28 @@ Here are some ideas to get you started:
     - [ ] 英 | 数 | 物 | 化  → （暑、寒、学期×2）  
     - [x] 美术 （国美-水粉六级 √、中福-素描九级 √）
     - [ ] 日语
-- [ ] 「__国家新行规实施，观望中__」ROG 升级电瓶车 🛵 （预算5K | 扩大活动半径）
+- [x] 「__国家新行规实施，观望中__」ROG 升级电瓶车 🛵 （预算5K | 扩大活动半径）
      > 自行车 → 15KM（极限） / → 电动自动车→ 25KM
-
+     > 1115 购入「九号电自 F90」裸车¥3,990.0
 
 ## 健身 / 健康  ⚡   
-- [ ] 足球2025 ( 每周 一 ~ 二回，全年计划 `55` 场 )    
-    - [ ] FT全年××场，进球××、助攻××、乌龙××  | [2025年足球活动记录](https://darkwarrior2025.xyz/#2024~2025年足球活动记录)
-    - [ ] 1231  →  202512R55    **END**
+- [x] 足球2025 ( 每周 一 ~ 二回，全年计划 `55` 场 )    
+    - [x] FT全年57场，进球××、助攻××、乌龙××  | [2025年足球活动记录](https://darkwarrior2025.xyz/#2024~2025年足球活动记录)
+    - [x] 0920  →  202509R57    **SEASON END** | **重伤/休停**
     - [x] 0630  →  202506R37       
     - [x] 0101  →  202501R01    **SEASON OPEN**
-- [ ] 自行车骑行 （2025 TGT：1,500 KM ）    
+- [x] 自行车骑行 （2025 TGT：1,500 KM ）    
     - [ ] 1231 -,-00KM   
     - [x] 0630 3,200KM   
     - [x] 0101 2,400KM   
 - [ ] 减重 ( BMI目标：22  控制到 75 KG ) Fail
-    - [ ] 1231 `--KG`
+    - [x] 1022 `78KG`
     - [x] 0630 78KG    
     - [x] 0101 77KG      
 - [ ] 特殊疾病
     - [x] 0405 病毒感染/鼻炎并发症 等
+    - [x] 0920 左膝内侧副韧带撕裂伤（严重），3-6个月修养
+
 
 
 ## 阅读  🤔   

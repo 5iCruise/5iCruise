@@ -4,6 +4,7 @@ title:  " iCruiseDATA Flags in 2026 "
 date:   2025-12-10
 version:   V0.1
 categories:   iCruise&Todo&2026
+archived:    wodebibi/docs/archive
 ---
 
 ------

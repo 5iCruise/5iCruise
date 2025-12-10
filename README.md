@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  " iCruiseDATA Flags in 2025 "
-date:   2025-11-17
-version:   V0.6
+date:   2025-12-10
+version:   V0.7
 categories:   iCruise&Todo&2025
 ---
 
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 
 ## 个人  🌱    
-- [x] **考证**：1109-系统规划与管理师（软考高级）  2025-下半年 | [软考达人](https://ruankaodaren.com/exam/#/)  
+- [x] **考证**：1109-系统规划与管理师（软考高级）  2025-下半年 `未通过` | [软考达人](https://ruankaodaren.com/exam/#/)  
 - [ ] 搭建个人 博客 / 播客 /  VLOG | PLOG  →  输出/推广 DW 产品/业务
     - [ ] 写作力 & 技术力 → 输出博文 （ TGT：12 回 ） | 方案0次案 ← Review: CONTENT CALENDAR         
     - [ ] 播客运营 → 输出音频   （ TGT：3 Episodes of 15 min ）| 未启动      
@@ -96,7 +96,7 @@ Here are some ideas to get you started:
     - [ ] 日语
 - [x] 「__国家新行规实施，观望中__」ROG 升级电瓶车 🛵 （预算5K | 扩大活动半径）
      > 自行车 → 15KM（极限） / → 电动自动车→ 25KM  
-     > 1115 购入「九号电自 F90」裸车¥3,990.0
+     > 1115 购入「九号电自 F90」裸车¥3,990.0 + 改造 ¥800.0
 
 ## 健身 / 健康  ⚡   
 - [x] 足球2025 ( 每周 一 ~ 二回，全年计划 `55` 场 )    
@@ -105,11 +105,11 @@ Here are some ideas to get you started:
     - [x] 0630  →  202506R37       
     - [x] 0101  →  202501R01    **SEASON OPEN**
 - [x] 自行车骑行 （2025 TGT：1,500 KM ）    
-    - [ ] 1231 -,-00KM   
+    - [x] 0920 3,700KM   
     - [x] 0630 3,200KM   
     - [x] 0101 2,400KM   
-- [ ] 减重 ( BMI目标：22  控制到 75 KG ) Fail
-    - [x] 1022 `78KG`
+- [x] 减重 ( BMI目标：22  控制到 75 KG ) Fail
+    - [x] 1210 `78KG`
     - [x] 0630 78KG    
     - [x] 0101 77KG      
 - [ ] 特殊疾病
@@ -122,16 +122,16 @@ Here are some ideas to get you started:
 - [ ] 《PMBOK 指南》 第六版，PMI US.
 - [ ] 《DAMA数据管理知识体系指南》  第二版，DAMA INTERNATIONAL
 - [ ] 《系统规划与管理师（软考高级）》  第 版，
-- [ ] 《变量 7：为了不下牌桌的创新》， 何帆  CN.
+- [x] 《变量 7：为了不下牌桌的创新》， 何帆  CN.
 - [ ] 《预测之书：来自未来的好消息》， 罗振宇（编著） CN.   
 - [ ] 《中年之路:人格的第二次成型》， 詹姆斯 · 霍利斯  US.     
-- [ ] 《Other Rivers: A Chinese Education》 （他乡之河：中国教育），彼得 · 海斯勒（何伟）  US. | 中文版(整理自译版本)   
+- [x] 《Other Rivers: A Chinese Education》 （他乡之河：中国教育），彼得 · 海斯勒（何伟）  US. | 中文版(整理自译版本)   
 - [ ] 《可能性的艺术：比较政治学30讲》， 刘瑜  CN.      
 - [ ] 《人月神话》，弗雷德里克 · 布鲁克斯  US. 『次回』   
 - [ ] 《中国国家治理的制度逻辑：一个组织学研究》， 周雪光  CN.     
 - [ ] 《逻辑新引+怎样判别是非》， 殷海光  CN.      
 - [ ] 《怎样解题：数学思维的新方法》， 乔治·波利亚  US.    
-- [ ] 《TiddlyWiki維基寫作：知識管理最佳工具》， 施保旭  TWA.      
+- [x] 《TiddlyWiki維基寫作：知識管理最佳工具》， 施保旭  TWA.      
 - [ ] 《失落的世界：新兴国家发展的陷阱与教训》，郭建龙  CN. 
 - [ ] 《黄朴民精解 “孙子兵法”》，孫子 黄朴民_译注  CN.     
 - [ ] 《一人公司：失业潮中的高新技术工作者》，卡丽·莱恩  US.    

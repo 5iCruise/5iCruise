@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " iCruiseDATA Flags in 2026 "
-date:   2025-12-10
+date:   2025-12-11
 version:   V0.1
 categories:   iCruise&Todo&2026
 archived:    wodebibi/docs/archive
@@ -9,7 +9,7 @@ archived:    wodebibi/docs/archive
 
 ------
 
-### Hi there 👋 I'm ROGER. 
+### Hi there 👋 I'm ROGER. 👷🏻
 
 ![](https://fastly.jsdelivr.net/gh/iCruiseDATA/picx-images-hosting@master/20251208/20250920-TangDuang.7i0u5xkzsv.webp "They're my family buddies ' TangTang & DangDang '.")    
 
@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![HumanRace](https://readme-typing-svg.herokuapp.com/?size=23&color=15485F&center=true&vCenter=true&width=1400&lines=%F0%9F%92%A1+2024%20%E5%B9%B4%E6%9C%AB%EF%BC%8C%E6%88%91%E4%BB%AC%E4%B8%AD%E6%9C%89%2082.2%20%E4%BA%BF%E4%BA%BA%E8%BF%98%E6%B4%BB%E7%9D%80%E3%80%82%E5%8A%A0%E4%B8%8A%E6%AD%BB%E8%80%85%EF%BC%8C%E8%87%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA%E7%B1%BB%E8%AF%9E%E7%94%9F%E4%BB%A5%E6%9D%A5%EF%BC%8C%E5%A4%A7%E7%BA%A6%E6%9C%89%201,170%20%E4%BA%BF%E4%BA%BA%E5%87%BA%E7%94%9F%E3%80%82)
 
 # iCruiseDATA Flags in 2026  
 

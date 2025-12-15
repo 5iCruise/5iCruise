@@ -15,6 +15,8 @@ archived:    wodebibi/docs/archive
 
 [ROGER Ghibli Style](https://lc-gluttony.s3.amazonaws.com/LSX6nt5pudU7/NwWIxTrIBJCxdFSzJaVlUcIs8Fn74qoe/ROGER_G_STYLE%20S.png "ROGER Ghibli Style")
 
+### 📈 Github Statistics
+
 ![iCruiseDATA's GitHub stats](https://github-readme-stats.vercel.app/api?username=5iCruise&show_icons=true&theme=transparent&hide_border=true)
 ![iCruiseDATA Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5iCruise&layout=compact&hide_border=true)
 ![iCruiseDATA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=5iCruise&theme=minimal)

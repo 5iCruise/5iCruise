@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  " iCruiseDATA Flags in 2026 "
-date:   2025-12-11
-version:   V0.1
+date:   2025-12-15
+version:   V0.2
 categories:   iCruise&Todo&2026
 archived:    wodebibi/docs/archive
 ---
@@ -11,26 +11,13 @@ archived:    wodebibi/docs/archive
 
 ### Hi there 👋 I'm ROGER. 👷🏻
 
-![](https://fastly.jsdelivr.net/gh/iCruiseDATA/picx-images-hosting@master/20251208/20250920-TangDuang.7i0u5xkzsv.webp "They're my family buddies ' TangTang & DangDang '.")    
+![Tang+Dang](https://fastly.jsdelivr.net/gh/iCruiseDATA/picx-images-hosting@master/20251208/20250920-TangDuang.7i0u5xkzsv.webp "They're my family buddies ' TangTang & DangDang '.")    
 
 [ROGER Ghibli Style](https://lc-gluttony.s3.amazonaws.com/LSX6nt5pudU7/NwWIxTrIBJCxdFSzJaVlUcIs8Fn74qoe/ROGER_G_STYLE%20S.png "ROGER Ghibli Style")
 
-<!--
-**5iCruise/5iCruise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![HumanRace](https://readme-typing-svg.herokuapp.com/?size=23&color=15485F&center=true&vCenter=true&width=1400&lines=%F0%9F%92%A1+2024%20%E5%B9%B4%E6%9C%AB%EF%BC%8C%E6%88%91%E4%BB%AC%E4%B8%AD%E6%9C%89%2082.2%20%E4%BA%BF%E4%BA%BA%E8%BF%98%E6%B4%BB%E7%9D%80%E3%80%82%E5%8A%A0%E4%B8%8A%E6%AD%BB%E8%80%85%EF%BC%8C%E8%87%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA%E7%B1%BB%E8%AF%9E%E7%94%9F%E4%BB%A5%E6%9D%A5%EF%BC%8C%E5%A4%A7%E7%BA%A6%E6%9C%89%201,170%20%E4%BA%BF%E4%BA%BA%E5%87%BA%E7%94%9F%E3%80%82)
+![iCruiseDATA's GitHub stats](https://github-readme-stats.vercel.app/api?username=5iCruise&show_icons=true&theme=transparent&hide_border=true)
+![iCruiseDATA Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5iCruise&layout=compact&hide_border=true)
+![iCruiseDATA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=5iCruise&theme=minimal)
 
 # iCruiseDATA Flags in 2026  
 
@@ -169,11 +156,28 @@ Here are some ideas to get you started:
 - 输出 12 篇博客文章、3 集播客
 - 技术栈从 “基础能力” 提升到 “可独立产出”
 
-
 ![Threshold](https://icon.like.do/api/v1?type=text&w=390&h=35&value=%E2%AD%90FORGED%20by%20ADVERSITY%E2%AD%90&animate=true&fillType=Linear&primaryColor=%23FC466B&secondaryColor=%233F5EFB&angle=45&radialGlare=false&radius=8&strokeSize=0&strokeColor=%23FFFFFF&strokeOpacity=100&color=%23FFFFFF&size=15&family=cursive)
-
 
 ～～～～～～
 
 Edit with [TiddlyWiki](/#tag) | [RSS](/#tag) | [Todo](/#tag) | [2026](/#tag)  | [DARK Warrior Studio](/#tag)  | [iCruiseDATA](#tag)
 
+![HumanRace](https://readme-typing-svg.herokuapp.com/?size=23&color=15485F&center=true&vCenter=true&width=1400&lines=%F0%9F%92%A1+2024%20%E5%B9%B4%E6%9C%AB%EF%BC%8C%E6%88%91%E4%BB%AC%E4%B8%AD%E6%9C%89%2082.2%20%E4%BA%BF%E4%BA%BA%E8%BF%98%E6%B4%BB%E7%9D%80%E3%80%82%E5%8A%A0%E4%B8%8A%E6%AD%BB%E8%80%85%EF%BC%8C%E8%87%AA%E7%8E%B0%E4%BB%A3%E4%BA%BA%E7%B1%BB%E8%AF%9E%E7%94%9F%E4%BB%A5%E6%9D%A5%EF%BC%8C%E5%A4%A7%E7%BA%A6%E6%9C%89%201,170%20%E4%BA%BF%E4%BA%BA%E5%87%BA%E7%94%9F%E3%80%82)
+
+
+<!--
+**5iCruise/5iCruise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- 💡 参考： https://github.com/buptsdz/buptsdz , https://www.yuque.com/u39067637/kf2l8e/eiikckg6x9pya8bo
+
+-->

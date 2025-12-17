@@ -1,25 +1,61 @@
 ---
 layout: post
 title:  " iCruiseDATA Flags in 2026 "
-date:   2025-12-15
+date:   2025-12-17
 version:   V0.2
 categories:   iCruise&Todo&2026
-archived:    wodebibi/docs/archive
+archived:    wodebibi/docs/achieve
 ---
 
 ------
 
-### Hi there 👋 I'm ROGER. 👷🏻
+### Hi there 👋 I'm ROGER. 👷🏻 [ROGER Ghibli Style](https://lc-gluttony.s3.amazonaws.com/LSX6nt5pudU7/NwWIxTrIBJCxdFSzJaVlUcIs8Fn74qoe/ROGER_G_STYLE%20S.png "ROGER Ghibli Style")
 
-![Tang+Dang](https://fastly.jsdelivr.net/gh/iCruiseDATA/picx-images-hosting@master/20251208/20250920-TangDuang.7i0u5xkzsv.webp "They're my family buddies ' TangTang & DangDang '.")    
-
-[ROGER Ghibli Style](https://lc-gluttony.s3.amazonaws.com/LSX6nt5pudU7/NwWIxTrIBJCxdFSzJaVlUcIs8Fn74qoe/ROGER_G_STYLE%20S.png "ROGER Ghibli Style")
+  <table border="0">
+    <tr>
+      <td>
+        <img align="center" src="https://fastly.jsdelivr.net/gh/iCruiseDATA/picx-images-hosting@master/20251208/20250920-TangDuang.7i0u5xkzsv.webp" width="200" alt="They're my family buddies ' TangTang & DangDang '." />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+         <a href="https://i.postimg.cc/Mpdj1qSK/Tangtang.webp" target="_blank" rel="noopener noreferrer"> Lovely Tang & Dang </a>
+      </td>
+    </tr>
+  </table> 
 
 ### 📈 Github Statistics
 
-![iCruiseDATA's GitHub stats](https://github-readme-stats.vercel.app/api?username=5iCruise&show_icons=true&theme=transparent&hide_border=true)
-![iCruiseDATA Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5iCruise&layout=compact&hide_border=true)
-![iCruiseDATA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=5iCruise&theme=minimal)
+  <table border="0">
+    <tr>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=5iCruise&show_icons=true&theme=transparent&hide_border=true" width="400" alt="GitHub stats" />
+      </td>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5iCruise&layout=compact&hide_border=true" width="400" alt="Top Langs" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+         <a> iCruiseDATA's GitHub stats </a>
+      </td>
+      <td align="center">
+         <a> iCruiseDATA Top Langs </a>
+      </td>
+    </tr>
+  </table> 
+
+<br>
+
+  <table border="0">
+    <tr>
+      <td>
+        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=5iCruise&theme=minimal" width="827" alt="Activity Graph" />
+      </td>
+    </tr>
+  </table>      
+
+<br>
 
 # iCruiseDATA Flags in 2026  
 

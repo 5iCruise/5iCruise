@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " iCruiseDATA Flags in 2025 "
-date:   2025-12-10
+date:   2025-12-17
 version:   V0.7
 categories:   iCruise&Todo&2025
 archived:    wodebibi/docs/archive
@@ -11,10 +11,28 @@ archived:    wodebibi/docs/archive
 
 ### Hi there 👋 I'm ROGER. 
 
-![new_avatar](https://i.postimg.cc/Mpdj1qSK/Tangtang.webp  "He's my new family buddy ' TangTang '.")
-![20250505-Dangdang.jpg](https://i.postimg.cc/6prRy8zL/20250505-Dangdang.jpg   "She's my new family buddy ' DangDang '.")
+  <table border="0">
+    <tr>
+      <td>
+        <img align="center" src="https://i.postimg.cc/Mpdj1qSK/Tangtang.webp" width="370" alt="He's my new family buddy ' TangTang '." />
+      </td>
+      <td>
+        <img align="center" src="https://i.postimg.cc/6prRy8zL/20250505-Dangdang.jpg" width="300" alt="She's my new family buddy ' DangDang '." />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+         <a href="https://i.postimg.cc/Mpdj1qSK/Tangtang.webp" target="_blank" rel="noopener noreferrer"> TangTang </a>
+      </td>
+      <td align="center">
+         <a href="https://i.postimg.cc/6prRy8zL/20250505-Dangdang.jpg" target="_blank" rel="noopener noreferrer"> DangDang </a>
+      </td>
+    </tr>
+  </table>
 
-[ROGER Ghibli Style](https://lc-gluttony.s3.amazonaws.com/LSX6nt5pudU7/NwWIxTrIBJCxdFSzJaVlUcIs8Fn74qoe/ROGER_G_STYLE%20S.png "ROGER Ghibli Style")
+  <br>
+ 
+[ROGER Ghibli Style](https://lc-gluttony.s3.amazonaws.com/LSX6nt5pudU7/NwWIxTrIBJCxdFSzJaVlUcIs8Fn74qoe/ROGER_G_STYLE%20S.png "ROGER Ghibli Style")  
 
 
 <!--

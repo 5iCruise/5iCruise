@@ -29,10 +29,10 @@ archived:    wodebibi/docs/achieve
   <table border="0">
     <tr>
       <td>
-        <img align="center" src="https://github-stats-alpha.vercel.app/api?username=5iCruise&show_icons=true&theme=transparent&hide_border=true" width="400" alt="GitHub stats" />
+        <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=5iCruise&show_icons=true&theme=transparent&hide_border=true" width="400" alt="GitHub stats" />
       </td>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5iCruise&layout=compact&hide_border=true" width="400" alt="Top Langs" />
+        <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=5iCruise&layout=compact&hide_border=true" width="400" alt="Top Langs" />
       </td>
     </tr>
     <tr>

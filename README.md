@@ -6,7 +6,7 @@ version:   V0.2
 categories:   iCruise&Todo&2026
 archived:    wodebibi/docs/achieve
 ---
-
+![Threshold](https://icon.like.do/api/v1?type=text&w=450&h=35&value=%E2%AD%90FORGED%20by%20ADVERSITY%E2%AD%90&animate=true&fillType=Linear&primaryColor=%23FC466B&secondaryColor=%233F5EFB&angle=45&radialGlare=false&radius=8&strokeSize=0&strokeColor=%23FFFFFF&strokeOpacity=100&color=%23FFFFFF&size=15&family=cursive)
 ------
 
 ### Hi there 👋 I'm ROGER. 👷🏻 [ROGER Ghibli Style](https://lc-gluttony.s3.amazonaws.com/LSX6nt5pudU7/NwWIxTrIBJCxdFSzJaVlUcIs8Fn74qoe/ROGER_G_STYLE%20S.png "ROGER Ghibli Style")
@@ -194,9 +194,7 @@ archived:    wodebibi/docs/achieve
 - 输出 12 篇博客文章、3 集播客
 - 技术栈从 “基础能力” 提升到 “可独立产出”
 
-![Threshold](https://icon.like.do/api/v1?type=text&w=390&h=35&value=%E2%AD%90FORGED%20by%20ADVERSITY%E2%AD%90&animate=true&fillType=Linear&primaryColor=%23FC466B&secondaryColor=%233F5EFB&angle=45&radialGlare=false&radius=8&strokeSize=0&strokeColor=%23FFFFFF&strokeOpacity=100&color=%23FFFFFF&size=15&family=cursive)
-
-～～～～～～
+![](https://fastly.jsdelivr.net/gh/iCruiseDATA/picx-images-hosting@master/20251229/gray0_ctp_on_line.2oc02hysm3.svg)
 
 Edit with [TiddlyWiki](/#tag) | [RSS](/#tag) | [Todo](/#tag) | [2026](/#tag)  | [DARK Warrior Studio](/#tag)  | [iCruiseDATA](#tag)
 

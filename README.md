@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " iCruiseDATA Flags in 2026 "
-date:   2025-12-17
+date:   2025-12-30
 version:   V0.2
 categories:   iCruise&Todo&2026
 archived:    wodebibi/docs/achieve
@@ -29,7 +29,7 @@ archived:    wodebibi/docs/achieve
   <table border="0">
     <tr>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=5iCruise&show_icons=true&theme=transparent&hide_border=true" width="400" alt="GitHub stats" />
+        <img align="center" src="https://github-stats-alpha.vercel.app/api?username=5iCruise&show_icons=true&theme=transparent&hide_border=true" width="400" alt="GitHub stats" />
       </td>
       <td>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5iCruise&layout=compact&hide_border=true" width="400" alt="Top Langs" />

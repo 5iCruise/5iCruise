@@ -119,16 +119,16 @@ archived:    wodebibi/docs/achieve
 - [ ] **旅游** ( 2026年暑期一回计划：江浙沪近郊 )（ 预算15K+ ）
 - [ ] **家庭媒体/数据应用服务平台**搭建 （ 预算20K → 升级 H3421PC ）
     - [ ] **工作主机**升级（用于 *本地大模型/知识库* 平台搭建）（预算12K | DIY）
-        - [ ] 硬件：i9 + 64G + GPU，+ 显示器 27 ‘’
+        - [ ] 硬件：i9 + 64G + GPU，+ 显示器 27 or ‘32’
         - [ ] 系统：Ubuntu Sever（ Arch Linux ） /  Win11 WSL
         - [ ] LLM + APP： Ollama + QAnything [备选方案](/#up主)
-    - [ ] “**家庭服务器**/NAS” （ 主机、系统 [fnOS 1.0](#Debian NAS)  、网络 穿透/VPN ）
-         > 需求：四~六盘全闪 NAS 主机¥1999.0 + M.2固态硬盘 2T ×3 @¥700.0E
+    - [ ] “**家庭服务器**/NAS” （ 主机、系统 [fnOS 1.0](#Debian NAS)  、网络穿透/VPN、管理 PANEL ）
+         > 需求：四~六盘( %%全闪%% 可靠性？) NAS 主机¥2,599.0 + M.2固态硬盘 2T ×2 @¥1,200.0E ( 存储涨价↑ ) + 3.5'机械硬盘 希捷酷狼 4T ×2 @¥1,100E
          > v2ex网友提供[参考①](https://v2ex.com/t/992023) 、 [参考②](https://v2ex.com/t/1006585) 、 [参考③](https://mebtte.com/my_nas)、[参考④](https://osnsyc.top/posts/home-server-overview/)    
          > 项目搭建/跟踪 [链接](https://darkwarrior2025.xyz/#HOME%20NAS%20BUILT%20-%202025:QuickNotes%20%5B%5BHOME%20NAS%20BUILT%20-%202025%5D%5D%20Y-%E7%A1%AC%E4%BB%B6%26%E7%B3%BB%E7%BB%9F%26%E5%BA%94%E7%94%A8%E9%85%8D%E7%BD%AE%20%24%3A%2Fplugins%2Fnico%2Fprojectify%2Fui%2Fconfig%2FCategories%20%E6%83%B3%E6%B3%95%E6%94%B6%E9%9B%86%E5%99%A8)
     - [ ] **桌面级数码录播** / 编辑  （ 硬件与应用环境：√MacBook Air M3 + 扩展坞，iPad Mini、大疆/影石 数码拍摄器材 预算8K+ ）    
 - [ ] **CHRIS** HighSchool Extra-Tutoring （ 202606-高二合格考、202612-美术联考 ） | 0320-BIRTHDAY    
-    - [ ] 英 | 数 | 语  （暑、寒、学期 × 2 / 预算¥40K+ ）  
+    - [ ] 英 | 数 | 语  （暑、寒、学期 × 2 / 预算¥40K+ → **FCST ¥80K/yr ± 10K** ）  
     - [ ] 美术 （国美-水粉七级 ）
     - [ ] 日语（ 二次元、动漫 ）
     - [ ] 育娃（ 一种兴趣、探索思维、世界观与信仰 ）
@@ -139,18 +139,18 @@ archived:    wodebibi/docs/achieve
     - [ ] FT全年50场，进球××、助攻××、乌龙××  | [2026~2027年足球活动记录](https://darkwarrior2025.xyz/#2026~2027年足球活动记录)
     - [ ] 1230  →  202612R40    **SEASON END** | ****
     - [ ] 0630  →  202606R15       
-    - [ ] 0301  →  202601R01    **SEASON OPEN**
+    - [ ] 0401  →  202604R01    **SEASON OPEN**
 - [ ] 电动自行车骑行 （2026 TGT：2,500 KM ）    
     - [ ] 1230 -,-00KM   
     - [ ] 0630 -,-00KM   
-    - [ ] 0101 -,-00KM
+    - [x] 0101 290KM
 - [ ] 减重 ( BMI目标：22  控制到 72 KG ) 
     - [ ] 1230 -- KG
     - [ ] 0630 -- KG    
-    - [ ] 0101 -- KG
+    - [x] 0101 80 KG
 - [ ] 运动爱好  「 游泳（ 报班 ¥5K ）、无人机（初级飞行  预算 ¥2K 内）、城市骑行 」
 - [ ] 特殊疾病
-    - [ ] 20250920-左膝内侧副韧带撕裂伤（严重），1210-上下楼梯可
+    - [ ] 20250920-左膝内侧副韧带撕裂伤（严重），1210-上下楼梯可 | 0130-慢跑
 
 ## 阅读  🤔   
 - [ ] 《PMBOK 指南》 第六版，PMI US.

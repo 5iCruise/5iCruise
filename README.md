@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  " iCruiseDATA Flags in 2026 "
-date:   2025-12-30
-version:   V0.2
+date:   2026-1-15
+version:   V1.01
 categories:   iCruise&Todo&2026
 archived:    wodebibi/docs/achieve
 ---
@@ -70,9 +70,10 @@ archived:    wodebibi/docs/achieve
    - 类A - 上手快，可变现 
    - 类B - 投产比50，方向明确但结果未知 
    - 类C - 规划、迭代，对未来有影响  
-- [ ] w社 [**Berth Openday SCHD**](#196-Ships) in 2026 `Pub-20251203`
-   - [ ] HOME SHIPS： **ADORA MAGIC CITY**、**RCI SPECTRUM of THE SEAS**、**BLUE DREAM MELODY**，_MSC BELLISSIMA_、
-   - [ ] CALL SHIPS： √ HA WESTERDAM、√ HA ZUIDERDAM、√ TUI MEIN SCHIFF 5、
+- [ ] w社 [**Berth Openday SCHD**](#181-Ships) in 2026 `Update-20251229`
+   - [ ] HOME SHIPS： **ADORA MAGIC CITY**、**RCI SPECTRUM of THE SEAS**、**MSC BELLISSIMA**、
+   - [ ] CALL SHIPS： √ HA WESTERDAM、√ COSTA SERENA、√ TUI MEIN SCHIFF 6、√ MSC MAGNIFICA
+   - [x] Out of Service：× _~~BLUE DREAM MELODY~~_
 
 
 ### 技术栈 🔭     
